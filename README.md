@@ -77,20 +77,6 @@ I spent a good amount of time dealing with PostgreSQL data types, metric aggrega
 
 ---
 
-## Project structure
-
-```text
-project/
-
-├── screenshots/
-├── sql/
-├── src/
-├── powerbi/
-├── README.md
-```
-
----
-
 ## How to run
 
 1. Clone the repository
